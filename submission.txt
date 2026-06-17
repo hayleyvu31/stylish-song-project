@@ -1,0 +1,4 @@
+Codd URL: https://codd.cs.gsu.edu/~tvu53/wp/inc/inclass1/index.html
+GitHub Repo: https://github.com/hayleyvu31/stylish-song-project.git
+Partner A Name: Hayley Vu
+Partner B Name: Brian Cortez-Reyes
